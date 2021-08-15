@@ -1,0 +1,4 @@
+*.ini
+*.conf
+.DS_STORE
+.dir
